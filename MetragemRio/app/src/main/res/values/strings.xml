@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Metragem Itajaí-Açu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="array_name">
+        <item>6.0m</item>
+        <item>7.0m</item>
+        <item>8.0m</item>
+        <item>9.0m</item>
+        <item>10.0m</item>
+        <item>11.00m</item>
+    </string-array>
+
+    <string-array name="array_frequence">
+        <item>A cada hora</item>
+        <item>Duas vezes ao dia</item>
+        <item>1 vez por dia</item>
+        <item>Apenas quando atingir a metragem escolhida.</item>
+    </string-array>
+</resources>
